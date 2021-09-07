@@ -1,0 +1,11 @@
+{
+	"name": "FRS(Token)",
+	"website": "https://app.xphoenix.club",
+	"description": "FRS is a community-based development token. It is developed by the community and has only 2,900. It has not been gradually extended to the DEFI field to stimulate infrastructure, such as DEX, GAMEFI, DAO and so on.",
+	"explorer": "https://www.oklink.com/okexchain/tokenAddr/0x1edca67E8D3BBA0137FBcB8eb4B3c96daE809688",
+	"type": "KIP20",
+	"symbol": "FRS",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x1edca67E8D3BBA0137FBcB8eb4B3c96daE809688"
+}
